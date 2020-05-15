@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.exe
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.dll
+C:\Users\Anvesh Penmetsa\source\repos\operations\bin\Debug\netcoreapp3.1\operations.pdb
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.dll
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.pdb
+C:\Users\Anvesh Penmetsa\source\repos\operations\obj\Debug\netcoreapp3.1\operations.genruntimeconfig.cache
